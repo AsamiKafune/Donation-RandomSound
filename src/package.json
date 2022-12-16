@@ -1,0 +1,13 @@
+{
+  "name": "donation",
+  "version": "1.0.0",
+  "description": "this is for random donation on Streamlab",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "path": "^0.12.7",
+    "socket.io-client": "2.3.1",
+    "sound-play": "^1.1.0"
+  }
+}
